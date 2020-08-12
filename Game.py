@@ -9,8 +9,7 @@ init(autoreset=True)
 
 while run == True :
 
-
-
+#smt
     num_1 = random.randint(1, 100)
     num_2 = random.randint(1, 100)
     num_3 = random.randint(3, 10)
